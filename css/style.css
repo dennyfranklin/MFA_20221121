@@ -1,0 +1,74 @@
+body {
+    background-color: white;
+}
+.flex-container {
+    
+    background-color: aliceblue;
+    padding: 20px;
+    padding-bottom: 210px;
+}
+.navbar button {
+    padding: 10px;
+}
+.navbar{
+    float: right;
+    padding-right: 20px;
+    padding: 40px;
+    gap: 10px;
+}   
+.navbar a{
+    color: grey;
+    font-family: Barlow;
+    text-decoration:none;
+    color: black;
+    font-size: 25px;
+   
+}
+.im p{
+    background-color: hsl(255deg 43% 28%) ;
+    font-size: 15px;
+    border: 2px solid ;
+    padding:10px 18px;
+    border-radius: 30px;
+    color:aliceblue;
+    margin-right: 1000px;
+
+
+} 
+.logo {
+    padding: 40px;
+}
+
+.aside {
+    display: flex;
+    justify-content: flex-end;
+    float: right;
+    height:400px;
+    width: 400px;
+   
+    
+}
+.heading {
+    font-size: 50px;
+    color:hsl(255deg 43% 28%) ;
+    }
+.im a {
+    background: transparent;
+    text-decoration: underline;
+    color:aliceblue;
+} 
+.left {
+    color:aliceblue;
+    background-color: hsl(255deg 43% 28%)  ;
+} 
+form button  {
+    padding: 10px;
+    background-color: hsl(255deg 43% 28%) ;
+    color:aliceblue;
+}
+.to {
+    padding: 10px;  
+}
+p .parap{
+    padding-top: 100px;
+}
